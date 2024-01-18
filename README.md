@@ -8,3 +8,4 @@ git push -f origin <branchName>
 
 
 Repo to demo git squash commands to peer team
+
